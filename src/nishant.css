@@ -1,0 +1,15 @@
+.forButton
+{  
+    border-radius: 10px;
+   color:darkred;
+      background-color:lightgreen;
+
+}
+.fordiv
+{
+    border:5px dashed black;
+    border-radius: 10px;
+    color:darkred;
+    background-color:gainsboro;
+    width:300px;
+}
